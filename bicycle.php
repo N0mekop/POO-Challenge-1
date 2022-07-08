@@ -2,13 +2,13 @@
 
 //CLASS
 
-    class Bike {
+    class Bicycle {
         private string $color = "Yellow";
         private int $currentSpeed = 20;
         private int $nbSeats = 1;
         private int $nbWheels = 2;
 
-        //METHOD
+//METHOD
 
         public function __construct(string $color)
         {
